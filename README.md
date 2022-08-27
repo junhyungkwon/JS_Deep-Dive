@@ -1,1 +1,1 @@
-# JS_Deep-Dive
+# JS_Deep-Dive 문법 정리
